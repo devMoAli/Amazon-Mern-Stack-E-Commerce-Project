@@ -9,3 +9,4 @@
 ![Full-Stack-Amazon-Project](Amazon5.gif)
 ![Full-Stack-Amazon-Project](Amazon6.gif)
 ![Full-Stack-Amazon-Project](Amazon7.gif)
+![Full-Stack-Amazon-Project](Amazon8.gif)
