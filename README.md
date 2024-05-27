@@ -7,4 +7,5 @@
 ![Full-Stack-Amazon-Project](Amazon3.gif)
 ![Full-Stack-Amazon-Project](Amazon4.gif)
 ![Full-Stack-Amazon-Project](Amazon5.gif)
-
+![Full-Stack-Amazon-Project](Amazon6.gif)
+![Full-Stack-Amazon-Project](Amazon7.gif)
